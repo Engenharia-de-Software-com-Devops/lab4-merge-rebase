@@ -1,5 +1,5 @@
 # Projeto Lab4
-Descricao: projeto de exercicio.
+Descricao: laboratorio de merge e rebase da turma.
 
 ## Documentacao
 Como usar o projeto.
