@@ -1,5 +1,5 @@
 # Projeto Lab4
-Descricao: projeto de exercicio.
+Descricao: projeto principal do laboratorio 4.
 
 ## Documentacao
 Como usar o projeto.
